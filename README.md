@@ -1,3 +1,5 @@
+<img width="893" height="480" alt="screenshots" src="https://github.com/user-attachments/assets/96a385c0-c3ab-48d2-a29b-be35f258ed76" />
+
 Unity开发的物理向派对游戏。
 + 项目内容：
 1. 物理系统和角色控制：通过对角色身体各部分碰撞体和连接组件(**Configurable Joint**)的设置，实现了人物的主动布娃娃(**Active Ragdoll**)物理系统，同时在脚本中忽视可能相互影响的碰撞体间的碰撞；通过角色触地的主要连接部分控制角色整体的运动和转向，实现了独特的角色控制系统。
